@@ -14,5 +14,5 @@ void setup(){
 void loop(){
    i2cScan();
    delay(5000);           // wait 5 seconds for next scan
-}
+}							//Bertrand est chiant
 
